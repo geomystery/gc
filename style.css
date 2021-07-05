@@ -1,0 +1,138 @@
+
+html{
+    background-color: #4a742c;
+}
+
+header{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 150%;
+    font-family: "Magnifica", "Courier New", monospace;
+    color: white;
+    font-weight: bold;
+}
+
+h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-family: "Magnifica", "Courier New", monospace;
+}
+
+nav{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 120%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+hr {
+    border: 5px solid white;
+    border-radius: 5px;
+}
+
+a:link, a:visited {
+    background-color: #ffffff;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #ffffff;
+}
+
+a+a{
+    margin-left: 2%;
+}
+
+#textiky{
+    color: white;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+    font-size: 120%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+.mid{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
+
+.pokus{
+    color: white;
+    font-size: 120%;
+    vertical-align:top;
+    width:20%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.pokuss{
+    color: white;
+    font-size: 120%;
+    vertical-align:top;
+    width:20%;
+    display: inline-block;
+}
+
+.pokusss{
+    color: white;
+    font-size: 120%;
+    vertical-align:top;
+    width:20%;
+    display: inline-block;
+    margin-bottom: 2%;
+}
+
+.pokussss{
+    color: white;
+    font-size: 120%;
+    vertical-align:top;
+    width:20%;
+    display: inline-block;
+
+}
+
+h2{
+    color: white;
+    font-size: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: white;
+}
+
+#tlac{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 2%;
+}
