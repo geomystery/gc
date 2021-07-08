@@ -147,3 +147,16 @@ h2{
 ul{
     color: white;
 }
+
+#ok{
+    color: white;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+    font-size: 120%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
